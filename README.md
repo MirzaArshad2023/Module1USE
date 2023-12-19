@@ -1,2 +1,3 @@
 # Module1USE
 Repository created for demonstration to USE cohort
+This repository contains the sample code of Module1 exercises.
